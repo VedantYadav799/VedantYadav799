@@ -4,12 +4,13 @@ I'm a Full Stack Developer with a passion for building web applications and solv
 
 ## 🔧 Skills
 
-- **Languages:** C#, JavaScript, HTML, CSS
-- **Backend:** .NET, ASP.NET, ASP.NET Core
-- **Frontend:** Angular, React
-- **Databases:** MySQL, SQL Server
-- **Version Control:** Git
-- **Tools:** Visual Studio, Visual Studio Code
+- 💻 **Languages:** C#, JavaScript, HTML, CSS
+- ⚙️ **Backend:** .NET, ASP.NET, ASP.NET Core
+- 🌐 **Frontend:** Angular, React
+- 📊 **Databases:** MySQL, SQL Server
+- 📜 **Version Control:** Git
+- 🛠️ **Tools:** Visual Studio, Visual Studio Code
+
 
 ## 🚀 GitHub Stats
 
@@ -17,8 +18,7 @@ I'm a Full Stack Developer with a passion for building web applications and solv
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/vedant-yadav)
-- [GitHub](https://github.com/YourGitHubUsername)
-- Email: your@email.com
+- [LinkedIn](https://www.linkedin.com/in/vedant-yadav-44b12124b/)
+- Email: vedantyadav799@email.com
 
 Let's collaborate and create something awesome together! 💡
