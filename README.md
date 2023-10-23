@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Vedant Yadav 👋
 
-<!--
-**VedantYadav799/VedantYadav799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer with a passion for building web applications and solving real-world problems. I specialize in .NET, C#, MySQL, and Angular. I love to write clean and maintainable code and enjoy staying up-to-date with the latest technologies.
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C#, JavaScript, HTML, CSS
+- **Backend:** .NET, ASP.NET, ASP.NET Core
+- **Frontend:** Angular, React
+- **Databases:** MySQL, SQL Server
+- **Version Control:** Git
+- **Tools:** Visual Studio, Visual Studio Code
+
+## 🚀 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedantYadav799&show_icons=true&theme=dark)
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/vedant-yadav)
+- [GitHub](https://github.com/YourGitHubUsername)
+- Email: your@email.com
+
+Let's collaborate and create something awesome together! 💡
