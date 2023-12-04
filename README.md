@@ -6,8 +6,8 @@ I'm a Full Stack Developer with a passion for building web applications and solv
 
 - 💻 **Languages:** C#, JavaScript, HTML, CSS
 - ⚙️ **Backend:** .NET, ASP.NET, ASP.NET Core
-- 🌐 **Frontend:** Angular, React
-- 📊 **Databases:** MySQL, SQL Server
+- 🌐 **Frontend:** Angular, React, JQuery
+- 📊 **Databases:** MySQL, SQL Server, MongoDB
 - 📜 **Version Control:** Git
 - 🛠️ **Tools:** Visual Studio, Visual Studio Code
 
